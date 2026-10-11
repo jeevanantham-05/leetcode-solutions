@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/0035-search-insert-position) |
 ## Two Pointers
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/0069-sqrtx) |
 ## Newton's Method
 |  |
