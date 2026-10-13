@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0283-move-zeroes](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Newton's Method
 |  |
 | ------- |
@@ -86,11 +89,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Counting
 |  |
 | ------- |
