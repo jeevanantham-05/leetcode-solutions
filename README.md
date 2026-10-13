@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/0231-power-of-two) |
