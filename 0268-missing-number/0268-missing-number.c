@@ -1,25 +1,19 @@
 int missingNumber(int* nums, int numsSize) {
 
-    for(int i=0;i<numsSize-1;i++)
+    for(int i=0;i<=numsSize;i++)
     {
-        for(int j=i+1;j<numsSize;j++)
+        int flag=0;
+        for(int j=0;j<numsSize;j++)
         {
-            if(nums[i]>nums[j])
+            if(nums[j]==i)
             {
-                int temp = nums[i];
-                nums[i]=nums[j];
-                nums[j]=temp;
+                flag=1;
+                break;
             }
         }
-    }
-
-    for(int k=0;k<numsSize;k++)
-    {
-        if(k!=nums[k])
-        return k;
+        if(!flag) return i;
     }
     return numsSize;
-  
 
     
 
