@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0704-binary-search](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/0704-binary-search) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1748-sum-of-unique-elements](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 ## Sorting
 |  |
