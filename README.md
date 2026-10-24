@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/0342-power-of-four) |
@@ -139,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/0415-add-strings) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
