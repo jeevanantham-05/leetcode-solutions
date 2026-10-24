@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [1768-merge-strings-alternately](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 ## Math
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/0415-add-strings) |
+| [1768-merge-strings-alternately](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 ## Bit Manipulation
 |  |
 | ------- |
