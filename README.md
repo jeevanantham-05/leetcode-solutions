@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/0414-third-maximum-number) |
+| [0704-binary-search](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/0704-binary-search) |
 | [1748-sum-of-unique-elements](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 ## Two Pointers
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/0367-valid-perfect-square) |
+| [0704-binary-search](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/0704-binary-search) |
 ## Newton's Method
 |  |
 | ------- |
