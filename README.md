@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/0169-majority-element) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/0415-add-strings) |
 ## Linked List
@@ -179,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/jeevanantham-05/leetcode-solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
