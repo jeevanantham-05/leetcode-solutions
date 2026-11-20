@@ -1,7 +1,7 @@
 bool isValid(char* s) {
     
     char stack[10000], ch;
-    int top=-1, f1=0,f2=0;
+    int top=-1;
 
     unsigned int ln=strlen(s);
 
@@ -14,12 +14,12 @@ bool isValid(char* s) {
 
         if(ch=='(' || ch=='['||ch=='{')
         {
-            f1=1;
+            
             stack[++top]=ch;
         }
         else
         {
-            f2=1;
+           
             if(top==-1) return false;
 
             char inside = stack[top];
@@ -33,5 +33,5 @@ bool isValid(char* s) {
 
   if(top!=-1) return false;
   else return true;
-    //return true;
+    
 }
